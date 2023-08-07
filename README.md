@@ -1,7 +1,7 @@
 # fastmontecarlo
 This Monte-Carlo simulator uses statistics of a trading strategy, like profit probability and win:loss ratio, to simulate multiple equity curve outcomes and help assess the drawdown and expected return of the strategy. 
 
-It has the same functionality as my previous Monte-Carlo simulator, found here: https://github.com/UndauntedFish/montecarlo/tree/master. This version was rewritten to maximize runtime to push the limit of how many simulations it can run.
+It has the same functionality as my previous Monte-Carlo simulator, found here: https://github.com/UndauntedFish/montecarlo/tree/master. This version was rewritten to maximize its runtime and push the limit of how many simulations it can run.
 
 Here is an example of using the program to simulate the possible outcomes of 50,000,000 trades with a trading strategy with the following statistics:
  - Win probability: 60%
